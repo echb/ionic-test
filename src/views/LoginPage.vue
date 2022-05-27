@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
-        <ion-title>Login page</ion-title>
+        <ion-title>Login</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true">
