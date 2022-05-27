@@ -8,7 +8,7 @@
     <ion-content :fullscreen="true">
       <ion-grid>
         <ion-row class="ion-justify-content-center">
-          <ion-col size="3">
+          <ion-col size-lg="3" size-md="6" size="12">
             <login-form></login-form>
           </ion-col>
         </ion-row>
